@@ -1,0 +1,60 @@
+
+	Full Stack Web Development
+		Front End
+		Back End
+
+	1997	-	7
+
+	Paradigm:
+		- Procedure Oriented Programming
+		- Object Oriented Programming
+
+	Java - Framework, Servlet, 
+
+	Java 17 LTS
+
+	
+	PHP
+	HTML, CSS, JS
+
+	Development
+	Production
+
+	Analysis
+	Design
+	Code
+	Test
+
+	WAP to accept 10 element in an array and display the unique elements.
+
+	WAP to accept a number and find whether it is prime or not.
+		Find the factor of the number (say 'n')
+			Divide n by i iteratively and increament i by 1 for each iteration
+		If the number of factors is 2 then it is prime else it is not.
+
+	Research Methodology
+
+	Requirement Gathering
+	Feasibility Analysis
+	
+
+	Parking Lot Management System
+		- Accounting
+		- Parking lot occupancy status (Overall & slot-wise)
+
+	Whats New?
+
+	W3Schools.com
+	
+	HTML
+	CSS
+	JS
+	PHP
+	MySQL
+	Visual Studio Code
+	
+	Microsoft Word
+	Microsoft PowerPoint
+	Draw.IO
+	
+	
